@@ -1,0 +1,69 @@
+{
+    "Name": "Mission Profile Customer X",
+    "TotalLifeTimeInYears": 20,
+    "DrivingCycleDurationInHours": 10,
+    "FluxFactorNeutronParticles": 1,
+    "FluxFactorAlphaParticles": 1,
+    "BfrStandard": 0,
+    "DistributeHeBy": 0,
+    "DistributeOnto": [
+      864,
+      869
+    ],
+    "HeBfrExternal": {
+      "BaseFailureRateDieInFit": 10,
+      "BaseFailureRatePackageInFit": 100
+    },
+    "HeBfrSn": {
+      "DeviceEncapsulation": "MoldedDie",
+      "UseMissionProfile": false,
+      "MeanAmbTempOperating": 55,
+      "CalculateSelfHeating": false,
+      "SelfHeating": 26.27,
+      "PowerDissipation": 1,
+      "ThermalResistance": 1,
+      "OperatingTimeInYears": 1,
+      "TotalLifeTimeInYears": 1,
+      "MeanAmbTempNonOperating": 25,
+      "ClimateType": "Worldwide",
+      "ComponentType": "Programmable ASICs (PLDs) erasable - MOS, CMOS, RAM basis - [>1M - 10M or >5M - 50M]",
+      "OperatingVoltage": 3,
+      "MaximumOperatingVoltage": 5,
+      "DriftSensitive": true,
+      "ReplaceTjBelow25": true,
+      "UseFailureRateWithStressProfile": true,
+      "TransistorCountForExtrapolation": 0,
+      "ExtrapolationApproach": "LambdaRefOnly"
+    },
+    "HeBfrIec": {
+      "YearOfManufacturing": 2020,
+      "SelfHeating": 10,
+      "TotalLifeTimeInYears": 20,
+      "PackageName": "PG-TQFP-80-7",
+      "SubstrateName": "Epoxy Glass (FR4, G-10)",
+      "InterpretationMultipleCircuitTypes": "WeightedAverage",
+      "MosDigitalCircuitsMicrosDsps": 100000,
+      "MosLinearCircuits": 10000,
+      "MosDigitalLinearCircuits": 1000,
+      "MosRom": 1500,
+      "MosHighSpeedSramFifo": 200000,
+      "MosLowConsumptionSram": 50000,
+      "MosDoubleAccessSram": 60000,
+      "MosOtp": 70000,
+      "MosFlash": 80000,
+      "MosEepromFlashEeprom": 90000,
+      "BipolarDigitalCircuits": 0,
+      "BipolarLinearCircuits": 0,
+      "BipolarLinearDigitalCircuitsLowVoltage": 0,
+      "BipolarLinearDigitalCircuitsHighVoltage": 0,
+      "BicmosDigitalCircuits": 0,
+      "BicmosLinearDigitalCircuitsLowVoltage": 0,
+      "BicmosLinearDigitalCircuitsHighVoltage": 0,
+      "BicmosSram": 0,
+      "TemperatureProfileType": "Custom",
+      "CyclingProfileType": "Custom"
+ }
+}
+
+
+

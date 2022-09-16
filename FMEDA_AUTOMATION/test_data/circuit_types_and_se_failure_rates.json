@@ -1,0 +1,70 @@
+[{
+  "Name": "Block area",
+  "Unit": "Pin",
+  "AlphaSeDensity": 0,
+  "NeutronSeDensity": 0,
+  "TotalSize": 5,
+  "TotalTransistorCount": 200000,
+  "TotalArea": 2,
+  "IsPackage": true
+},
+{
+  "Name": "Package",
+  "Unit": "Pin",
+  "AlphaSeDensity": 0,
+  "NeutronSeDensity": 0,
+  "TotalSize": 80,
+  "TotalTransistorCount": 0,
+  "TotalArea": 0,
+  "IsPackage": false
+},
+{
+  "Name": "Flip Flops",
+  "Unit": "Bit",
+  "AlphaSeDensity": 0.001,
+  "NeutronSeDensity": 0.001,
+  "TotalSize": 5000,
+  "TotalTransistorCount": 0,
+  "TotalArea": 0,
+  "IsPackage": true
+},
+{
+  "Name": "HV-FF",
+  "Unit": "Bit",
+  "AlphaSeDensity": 0.0001,
+  "NeutronSeDensity": 0.0001,
+  "TotalSize": 100,
+  "TotalTransistorCount": 0,
+  "TotalArea": 0,
+  "IsPackage": false
+},
+{
+  "Name": "Latches",
+  "Unit": "Bit",
+  "AlphaSeDensity": 0.0005,
+  "NeutronSeDensity": 0.0005,
+  "TotalSize": 100,
+  "TotalTransistorCount": 0,
+  "TotalArea": 0,
+  "IsPackage": false
+},
+{
+  "Name": "SRAM",
+  "Unit": "Mbit",
+  "AlphaSeDensity": 0.002,
+  "NeutronSeDensity": 0.002,
+  "TotalSize": 2,
+  "TotalTransistorCount": 0,
+  "TotalArea": 0,
+  "IsPackage": false
+},
+{
+  "Name": "Flash",
+  "Unit": "Mbit",
+  "AlphaSeDensity": 0,
+  "NeutronSeDensity": 0,
+  "TotalSize": 0,
+  "TotalTransistorCount": 0,
+  "TotalArea": 0,
+  "IsPackage": false
+}]

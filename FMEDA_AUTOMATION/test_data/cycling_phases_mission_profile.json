@@ -1,0 +1,5 @@
+{
+      "NumberOfCycles": 100,
+      "TemperatureDifference": 20,
+      "ConsiderSelfHeating": true
+}

@@ -1,0 +1,12 @@
+[{
+  "tlsrs_name": "Safe Software execution",
+  "tlsrs_definition": "Perform SW execution according to instruction set",
+  "ffm": "false",
+  "target_asil": 2
+},
+{
+  "tlsrs_name": "Perform SW execution according to instruction set.",
+  "tlsrs_definition": "Execute interrupt function in FTTI",
+  "ffm": "false",
+  "target_asil": 2
+}]
